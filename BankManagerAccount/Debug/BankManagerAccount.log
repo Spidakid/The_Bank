@@ -1,0 +1,4 @@
+﻿  BankManagerAccount.cpp
+c:\users\spidakid\documents\reposgit\bankmanager\bankmanageraccount\bankmanageraccount.cpp(49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\spidakid\documents\reposgit\bankmanager\bankmanageraccount\bankmanageraccount.cpp(66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  BankManagerAccount.vcxproj -> C:\Users\Spidakid\Documents\ReposGit\BankManager\Debug\BankManagerAccount.exe
